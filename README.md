@@ -1,3 +1,3 @@
-![2](https://github.com/user-attachments/assets/12baa2f7-2c1d-4a33-b599-dc9a31b605cf)
+![2](https://github.com/user-attachments/assets/f39b4f1a-31dc-4955-8282-a964b3f18a0d)
 
-# Auralook
+# Auralook (Pty) Ltd
