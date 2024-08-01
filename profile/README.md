@@ -37,7 +37,7 @@ Our mobile application is currently exclusive to the Google Play Store, but we'r
 [<img src="https://github.com/user-attachments/assets/d1355bf2-3ccc-43e1-8b33-d47e4c2020cb" width="30%">](https://play.google.com/store/apps/details?id=com.auralook.stylit)
 
 <p>
-  <img src="https://github.com/user-attachments/assets/a044d757-ceac-476d-b48b-d909670b1541?raw=true" height="400"/>
+  <img src="https://github.com/user-attachments/assets/6ada7cf1-131b-49c4-930e-36bee05aef0f?raw=true" height="400"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/a044d757-ceac-476d-b48b-d909670b1541?raw=true" height="400"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -47,6 +47,35 @@ Our mobile application is currently exclusive to the Google Play Store, but we'r
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/f6a34d62-d03a-426a-90f2-2633fec60de5?raw=true" height="400"/>
 </p>
+
+### 3. Pricing For Businesses
+
+**Unlock Endless Possibilities with Our Subscription-Free System!**
+
+Get started with our user-friendly platform, packed with essential features to kickstart your journey. Plus, enjoy the flexibility of two subscription options to take your experience to the next level!
+
+Auto-Renewal Subscription:
+
+Unlock premium features, exclusive content, and services with our auto-renewal subscriptions:
+
+- Monthly: R159.99 (perfect for testing the waters)
+- Yearly: R1399.99 (commit to excellence and save!)
+
+Enjoy uninterrupted access to our platform's full potential, with automatic renewals until you choose to cancel.
+
+Platform Fee:
+
+We keep things transparent and affordable! Our platform fee is a mere 4.9% per transaction between salons and customers. You get to keep more of your hard-earned money, making us the most competitive option in the market.
+
+Maximize Your Earnings
+
+Join our community today and discover the best value for your work. With our system, you'll enjoy:
+
+- Unbeatable pricing
+- Unrestricted growth potential
+- Unparalleled support
+
+Don't miss out! Sign up now and start thriving!
 
 ## Coming Soon
 
