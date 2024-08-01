@@ -32,6 +32,8 @@ At Auralook, we're a team of passionate builders, driven by a vision to create s
 1. About
 
 2. Download
+   [![image](https://github.com/user-attachments/assets/d1355bf2-3ccc-43e1-8b33-d47e4c2020cb)](https://play.google.com/store/apps/details?id=com.auralook.stylit)
+   <img src="https://github.com/user-attachments/assets/d1355bf2-3ccc-43e1-8b33-d47e4c2020cb" width="50%">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
