@@ -50,7 +50,7 @@ Our mobile application is currently exclusive to the Google Play Store, but we'r
 
 ## Coming Soon
 
-* iOS app version
+* Stylit iOS app version
 
 ## Contact
 
