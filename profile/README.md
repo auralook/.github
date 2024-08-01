@@ -34,7 +34,7 @@ Stylit booking system is designed to streamline appointments and boost business 
 
 Our mobile application is currently exclusive to the Google Play Store, but we're excited to announce that it will soon be available for download on the Apple App Store as well as Web, expanding our reach to a wider audience.
 
-[<img src="https://github.com/user-attachments/assets/d1355bf2-3ccc-43e1-8b33-d47e4c2020cb" width="20%">](https://play.google.com/store/apps/details?id=com.auralook.stylit)
+[<img src="https://github.com/user-attachments/assets/d1355bf2-3ccc-43e1-8b33-d47e4c2020cb" width="30%">](https://play.google.com/store/apps/details?id=com.auralook.stylit)
 
 <p>
   <img src="https://github.com/user-attachments/assets/a044d757-ceac-476d-b48b-d909670b1541?raw=true" height="400"/>
