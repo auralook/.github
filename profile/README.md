@@ -18,7 +18,7 @@
 
 ## Introduction
 
-Empowering innovation.
+**Empowering innovation.**
 
 At Auralook, we're a team of passionate builders, driven by a vision to create software that solves real problems and makes a meaningful impact. We design, develop, and deploy our own software solutions, leveraging the latest technologies and trends to stay ahead of the curve. From concept to launch, we're dedicated to crafting intuitive, scalable, and secure products that help society thrive.
 
