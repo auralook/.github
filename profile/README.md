@@ -28,7 +28,7 @@ At Auralook, we're a team of passionate builders, driven by a vision to create s
 ### Stylit
 #### 1. About
 
-Stylit booking system is designed to streamline appointments and boost business growth. End-users can effortlessly book and secure salon appointments through a secure payment gateway, while salon owners and managers can efficiently manage bookings, schedules, customer relationships, and receive payouts. Packed with innovative features, our platform aims to scale and drive success for beauty businesses.
+Stylit is a dual UI booking system designed to streamline appointments and boost business growth. End-users can effortlessly book and secure salon appointments through a secure payment gateway, while salon owners and managers can efficiently manage bookings, schedules, customer relationships, and receive payouts. Packed with innovative features, our platform aims to scale and drive success for beauty businesses.
 
 #### 2. Download
 
