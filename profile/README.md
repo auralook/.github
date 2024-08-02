@@ -79,7 +79,13 @@ Don't miss out! Sign up now and start thriving!
 
 ## Coming Soon
 
+Major release(s):
 * Stylit iOS app version
+Customer UI features:
+* Add appointment to calendar
+* Directions to salon
+Business U features:
+* Calendar view of beauticians' appointments
 
 ## Contact
 
