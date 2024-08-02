@@ -86,7 +86,7 @@ Customer UI features:
 * Add appointment to calendar
 * Directions to salon
 
-Business U features:
+Business UI features:
 * Calendar view of beauticians' appointments
 
 ## Contact
