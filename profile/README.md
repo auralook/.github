@@ -91,7 +91,7 @@ Don't miss out! Sign up now and start thriving!
 * Streamlined Appointments: Effortlessly manage appointments, including changes to beauticians and time slots.
 * Real-Time Visibility: Monitor appointments in various stages (pending, on queue, on service, etc.) in a single, intuitive view.
 * Beautician Availability: Set and showcase your team's schedules, empowering end users to make informed booking decisions.
-* Premium Insights: Access revenue reports, and showcase your work to attract new clients (Premium feature).
+* Premium Insights: Access revenue reports, showcase your work to attract new clients (Premium feature), and free insights graph of past appointments.
 * Flexible Subscriptions: Choose from two subscription plans, with payouts processed within 2-5 days.
 * Services Slots: dd multiple slots for up to 3 days, with the option to unlock unlimited slots when you upgrade to a subscription plan.
 * Service discount: Inform your customers about exclusive discounts, showcasing the new price, and let us handle the rest.
