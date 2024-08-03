@@ -77,6 +77,37 @@ Join our community today and discover the best value for your work. With our sys
 
 Don't miss out! Sign up now and start thriving!
 
+#### 4. Powerful features
+
+**End User Delights**
+
+* Book with Ease: Schedule multiple services in one appointment, and choose your preferred beautician for a personalized experience.
+* Rewarding Experience: Earn points for every appointment, redeemable for free services or discounts on future bookings.
+* Secure Bookings: Pay securely through our integrated payment gateway, ensuring a seamless and worry-free experience.
+* Find Your Perfect Salon: Utilize our powerful search feature to discover active and registered salons, with options to view nearby and recently visited salons.
+
+**Salon Success**
+
+* Streamlined Appointments: Effortlessly manage appointments, including changes to beauticians and time slots.
+* Real-Time Visibility: Monitor appointments in various stages (pending, on queue, on service, etc.) in a single, intuitive view.
+* Beautician Availability: Set and showcase your team's schedules, empowering end users to make informed booking decisions.
+* Premium Insights: Access revenue reports, and showcase your work to attract new clients (Premium feature).
+* Flexible Subscriptions: Choose from two subscription plans, with payouts processed within 2-5 days.
+* Services Slots: dd multiple slots for up to 3 days, with the option to unlock unlimited slots when you upgrade to a subscription plan.
+* Service discount: Inform your customers about exclusive discounts, showcasing the new price, and let us handle the rest.
+
+**Shared Benefits**
+
+* Report Misconduct: Maintain a safe and respectful community by reporting any misconduct.
+* In-App Chat: Seamlessly communicate with salons or end users through our integrated chat feature.
+* Real-Time Notifications: Stay informed with instant updates on chats, appointments, and system updates.
+
+Download and experience the future of booking platforms today! We have many other features to show you!
+
+#### 5. Available in the following countries:
+
+* South Africa
+
 ## Coming Soon
 
 Major release(s):
