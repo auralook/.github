@@ -95,6 +95,7 @@ Don't miss out! Sign up now and start thriving!
 * Flexible Subscriptions: Choose from two subscription plans, with payouts processed within 2-5 days.
 * Services Slots: dd multiple slots for up to 3 days, with the option to unlock unlimited slots when you upgrade to a subscription plan.
 * Service discount: Inform your customers about exclusive discounts, showcasing the new price, and let us handle the rest.
+* Beautician Calandar: Calendar view of online/offline beauticians' past and upcoming appointments (Premium feature).
 
 **Shared Benefits**
 
