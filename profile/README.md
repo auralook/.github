@@ -85,6 +85,8 @@ Don't miss out! Sign up now and start thriving!
 * Rewarding Experience: Earn points for every appointment, redeemable for free services or discounts on future bookings.
 * Secure Bookings: Pay securely through our integrated payment gateway, ensuring a seamless and worry-free experience.
 * Find Your Perfect Salon: Utilize our powerful search feature to discover active and registered salons, with options to view nearby and recently visited salons.
+* Directions: Open maps directly from the app to your salon location.
+* Add to calendar: Add confirmed appointments to your calendar.
 
 **Salon Success**
 
