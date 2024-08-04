@@ -54,11 +54,7 @@ Our mobile application is currently exclusive to the Google Play Store, but we'r
   <img src="https://github.com/user-attachments/assets/f6a34d62-d03a-426a-90f2-2633fec60de5?raw=true" height="400"/>
 </p>
 
-https://github.com/user-attachments/assets/d3741319-607f-4437-988e-49a829782afb
-
-
-
-https://github.com/user-attachments/assets/fbffe6d5-3b6d-443d-8032-e49e4781e09e
+https://github.com/user-attachments/assets/d3741319-607f-4437-988e-49a829782afb https://github.com/user-attachments/assets/fbffe6d5-3b6d-443d-8032-e49e4781e09e
 
 
 #### 3. Pricing For Businesses
