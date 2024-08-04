@@ -36,8 +36,8 @@ Our mobile application is currently exclusive to the Google Play Store, but we'r
 
 [<img src="https://github.com/user-attachments/assets/d1355bf2-3ccc-43e1-8b33-d47e4c2020cb" width="30%">](https://play.google.com/store/apps/details?id=com.auralook.stylit)
 
-[Video Title](https://github.com/user-attachments/assets/d3741319-607f-4437-988e-49a829782afb) 
-[Video Title](https://github.com/user-attachments/assets/fbffe6d5-3b6d-443d-8032-e49e4781e09e)
+![Video Title](https://github.com/user-attachments/assets/d3741319-607f-4437-988e-49a829782afb) 
+![Video Title](https://github.com/user-attachments/assets/fbffe6d5-3b6d-443d-8032-e49e4781e09e)
 
 [![Video Title](https://github.com/user-attachments/assets/6ada7cf1-131b-49c4-930e-36bee05aef0f?raw=true)](https://github.com/user-attachments/assets/d3741319-607f-4437-988e-49a829782afb)
 [![Video Title](https://github.com/user-attachments/assets/a044d757-ceac-476d-b48b-d909670b1541?raw=true)](https://github.com/user-attachments/assets/fbffe6d5-3b6d-443d-8032-e49e4781e09e)
@@ -53,7 +53,6 @@ Our mobile application is currently exclusive to the Google Play Store, but we'r
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/f6a34d62-d03a-426a-90f2-2633fec60de5?raw=true" height="400"/>
 </p>
-
 
 https://github.com/user-attachments/assets/d3741319-607f-4437-988e-49a829782afb
 
