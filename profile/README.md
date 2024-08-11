@@ -93,9 +93,6 @@ Download and experience the future of booking platforms today! We have many othe
 Major release(s):
 * Stylit iOS app version
 
-Business UI features:
-* Calendar view of beauticians' appointments
-
 ## Contact
 
 Auralook Support - support@auralook.io
