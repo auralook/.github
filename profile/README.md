@@ -93,10 +93,6 @@ Download and experience the future of booking platforms today! We have many othe
 Major release(s):
 * Stylit iOS app version
 
-Customer UI features:
-* Add appointment to calendar
-* Directions to salon
-
 Business UI features:
 * Calendar view of beauticians' appointments
 
