@@ -41,8 +41,6 @@ Our mobile application is currently exclusive to the Google Play Store, but we'r
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/a044d757-ceac-476d-b48b-d909670b1541?raw=true" height="400"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/6d7396ad-ec5d-4f23-a71a-7338e473da75?raw=true"  height="400"/>
-   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/97a0ecb2-5458-4ea6-82d2-8311e4563734?raw=true" height="400"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/f6a34d62-d03a-426a-90f2-2633fec60de5?raw=true" height="400"/>
@@ -50,30 +48,9 @@ Our mobile application is currently exclusive to the Google Play Store, but we'r
 
 #### 3. Pricing For Businesses
 
-**Unlock Endless Possibilities with Our Subscription-Free System!**
+**Unlock Endless Possibilities with Our Free System!**
 
-Get started with our user-friendly platform, packed with essential features to kickstart your journey. Plus, enjoy the flexibility of two subscription options to take your experience to the next level!
-
-Auto-Renewal Subscription:
-
-Unlock premium features, exclusive content, and services with our auto-renewal subscriptions:
-
-- Monthly: R159.99 (perfect for testing the waters)
-- Yearly: R1399.99 (commit to excellence and save!)
-
-Enjoy uninterrupted access to our platform's full potential, with automatic renewals until you choose to cancel.
-
-Platform Fee:
-
-We keep things transparent and affordable! Our platform fee is a mere 4.9% per transaction between salons and customers. You get to keep more of your hard-earned money, making us the most competitive option in the market.
-
-Maximize Your Earnings
-
-Join our community today and discover the best value for your work. With our system, you'll enjoy:
-
-- Unbeatable pricing
-- Unrestricted growth potential
-- Unparalleled support
+Get started with our free user-friendly platform, packed with essential features to kickstart your journey!
 
 Don't miss out! Sign up now and start thriving!
 
@@ -93,11 +70,11 @@ Don't miss out! Sign up now and start thriving!
 * Streamlined Appointments: Effortlessly manage appointments, including changes to beauticians and time slots.
 * Real-Time Visibility: Monitor appointments in various stages (pending, on queue, on service, etc.) in a single, intuitive view.
 * Beautician Availability: Set and showcase your team's schedules, empowering end users to make informed booking decisions.
-* Premium Insights: Access revenue reports, showcase your work to attract new clients (Premium feature), and free insights graph of past appointments.
+* Premium Insights: Access revenue reports, showcase your work to attract new clients, and insights graph of past appointments.
 * Flexible Subscriptions: Choose from two subscription plans, with payouts processed within 2-5 days.
 * Services Slots: dd multiple slots for up to 3 days, with the option to unlock unlimited slots when you upgrade to a subscription plan.
 * Service discount: Inform your customers about exclusive discounts, showcasing the new price, and let us handle the rest.
-* Beautician Calandar: Calendar view of online/offline beauticians' past and upcoming appointments (Premium feature).
+* Beautician Calandar: Calendar view of online/offline beauticians' past and upcoming appointments.
 
 **Shared Benefits**
 
