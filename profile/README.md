@@ -81,6 +81,7 @@ Don't miss out! Sign up now and start thriving!
 * Report Misconduct: Maintain a safe and respectful community by reporting any misconduct.
 * In-App Chat: Seamlessly communicate with salons or end users through our integrated chat feature.
 * Real-Time Notifications: Stay informed with instant updates on chats, appointments, and system updates.
+* Create a Support Ticket: Get help with your questions and concerns.
 
 Download and experience the future of booking platforms today! We have many other features to show you!
 
