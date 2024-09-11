@@ -56,32 +56,24 @@ Don't miss out! Sign up now and start thriving!
 
 #### 4. Powerful features
 
-**End User Delights**
+**End-user features:**
+* Book & secure appointments.
+* Earn points for every appointment.
+* Search feature to discover registered salons with option to view nearby salons.
+* Get salon directions and add confirmed appointments to calendar.
 
-* Book with Ease: Schedule multiple services in one appointment, and choose your preferred beautician for a personalized experience.
-* Rewarding Experience: Earn points for every appointment, redeemable for free services or discounts on future bookings.
-* Secure Bookings: Pay securely through our integrated payment gateway, ensuring a seamless and worry-free experience.
-* Find Your Perfect Salon: Utilize our powerful search feature to discover active and registered salons, with options to view nearby and recently visited salons.
-* Directions: Open maps directly from the app to your salon location.
-* Add to calendar: Add confirmed appointments to your calendar.
+**Salon features:**
+* Manage appointments, including changes to beauticians and time slots.
+* Set and showcase your team's schedules.
+* Revenue reports, showcase your work to attract new clients, and insights of past appointments.
+* Payouts processed within 2-3 days.
+* Calendar view of online/offline beauticians' past and upcoming appointments.
 
-**Salon Success**
-
-* Streamlined Appointments: Effortlessly manage appointments, including changes to beauticians and time slots.
-* Real-Time Visibility: Monitor appointments in various stages (pending, on queue, on service, etc.) in a single, intuitive view.
-* Beautician Availability: Set and showcase your team's schedules, empowering end users to make informed booking decisions.
-* Premium Insights: Access revenue reports, showcase your work to attract new clients, and insights graph of past appointments.
-* Flexible Subscriptions: Choose from two subscription plans, with payouts processed within 2-5 days.
-* Services Slots: dd multiple slots for up to 3 days, with the option to unlock unlimited slots when you upgrade to a subscription plan.
-* Service discount: Inform your customers about exclusive discounts, showcasing the new price, and let us handle the rest.
-* Beautician Calandar: Calendar view of online/offline beauticians' past and upcoming appointments.
-
-**Shared Benefits**
-
-* Report Misconduct: Maintain a safe and respectful community by reporting any misconduct.
-* In-App Chat: Seamlessly communicate with salons or end users through our integrated chat feature.
-* Real-Time Notifications: Stay informed with instant updates on chats, appointments, and system updates.
-* Create a Support Ticket: Get help with your questions and concerns.
+**Shared benefits:**
+* Report Misconduct: Help keep the community safe by reporting inappropriate behavior.
+* In-App Chat: Seamlessly communicate with salons or end-users.
+* Instant Alerts: Get real-time updates on chats, appointments, and system changes.
+* Create a Support Ticket: Get assistance with your questions and issues.
 
 Download and experience the future of booking platforms today! We have many other features to show you!
 
