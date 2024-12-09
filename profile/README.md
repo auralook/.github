@@ -64,7 +64,7 @@ Don't miss out! Sign up now and start thriving!
 * Manage appointments, including changes to beauticians and time slots.
 * Set and showcase your team's schedules.
 * Revenue reports, showcase your work to attract new clients, and insights of past appointments.
-* Payouts processed within 2-3 days.
+* Payouts processed within 24hrs.
 * Calendar view of online/offline beauticians' past and upcoming appointments.
 
 **Shared benefits:**
