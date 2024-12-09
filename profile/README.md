@@ -32,9 +32,7 @@ Stylit is a dual UI booking system designed to streamline appointments and boost
 
 #### 2. Download
 
-Our mobile application is currently exclusive to the Google Play Store and Apple App Store, but we're excited to announce that it will soon be available for Web, expanding our reach to a wider audience.
-
-[<img src="https://github.com/user-attachments/assets/d1355bf2-3ccc-43e1-8b33-d47e4c2020cb" width="30%">](https://play.google.com/store/apps/details?id=com.auralook.stylit)
+Our mobile application is currently exclusive to the [Google Play Store](https://play.google.com/store/apps/details?id=com.auralook.stylit) and [Apple App Store](https://apps.apple.com/app/stylit/id6670455415), but we're excited to announce that it will soon be available for Web, expanding our reach to a wider audience.
 
 <p>
   <img src="https://github.com/user-attachments/assets/6ada7cf1-131b-49c4-930e-36bee05aef0f?raw=true" height="400"/>
